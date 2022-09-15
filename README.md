@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokings
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Web Development and Software Enginerring
+- 🌱 I’m currently Doing a Software Enginering course with ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joshuaashua3@gmail.com, +2348073023224
 
